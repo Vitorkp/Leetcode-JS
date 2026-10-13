@@ -5,6 +5,6 @@ Repositório dedicado ao acompanhamento do meu progresso na resolução de desaf
 
 ### 🎯 Objetivos
 
-* 🧠 **Dominar Fundamentos**: Closures, manipulação de arrays e programação funcional em JavaScript.
-* 📈 **Evolução Contínua**: Resolução diária de exercícios e aprimoramento da lógica de programação.
-* 🛠️ **Boas Práticas**: Escrever código limpo, legível e eficiente.
+*  **Dominar Fundamentos**: Closures, manipulação de arrays e programação funcional em JavaScript.
+*  **Evolução Contínua**: Resolução diária de exercícios e aprimoramento da lógica de programação.
+*  **Boas Práticas**: Escrever código limpo, legível e eficiente.
