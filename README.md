@@ -7,4 +7,4 @@ Repositório dedicado ao acompanhamento do meu progresso na resolução de desaf
 
 *  **Dominar Fundamentos**: Closures, manipulação de arrays e programação funcional em JavaScript.
 *  **Evolução Contínua**: Resolução diária de exercícios e aprimoramento da lógica de programação.
-*  **Boas Práticas**: Escrever código limpo, legível e eficiente.
+*  **Boas Práticas**: Escrever codigo limpo, legível e eficiente.
